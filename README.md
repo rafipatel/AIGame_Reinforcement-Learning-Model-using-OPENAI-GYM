@@ -1,7 +1,7 @@
 # AI_Plays_the_Game-Reinforcement-Learning-Model
  
  Inspired and motivated by "DEEP MIND" to learn and apply Reinforcement Learning.
- This is a simple model to demonstrate the understanding and working of Reinforcement Learning, using OPEN AI GYM environment and SEQUENTIAL NEURAL NETWORK model from keras.
+ This is a simple model to demonstrate the understanding and working of Reinforcement Learning, using OPEN AI GYM "CartPole-v1" environment and SEQUENTIAL NEURAL NETWORK model from keras.
  A type of Learning different than ML, where the model learns and improve itself from mistakes in the environment, without providing tons of data to improve.
  
  Reinforcement learning:
